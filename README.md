@@ -1,4 +1,6 @@
 # ONC Converter
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7571501a-d480-4415-8856-b9572fb999f6/deploy-status)](https://app.netlify.com/sites/onc/deploys)
+
 Convert OpenVPN configuration files to ONC configuration files.
 
 ## How to use
